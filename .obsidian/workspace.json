@@ -15,9 +15,9 @@
               "state": {
                 "file": "Blender Roadmap/Roadmap- blender.canvas",
                 "viewState": {
-                  "x": -2092.2804608600713,
-                  "y": 1108.9684512088584,
-                  "zoom": -3.333333333333333
+                  "x": -4150.673124367109,
+                  "y": 617.8177296928477,
+                  "zoom": -2.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -178,6 +178,7 @@
   },
   "active": "fbc88400b457a61d",
   "lastOpenFiles": [
+    "LICENSE",
     "Obsidian_estudos/LICENSE",
     "Obsidian_estudos",
     "Road map Godot/Animações estudos.canvas",
