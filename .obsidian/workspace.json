@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "195399ccc8e6ca11",
+    "type": "split",
+    "children": [
+      {
+        "id": "962aa744cfe4378d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2a0b92b10cacc0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Blender Roadmap/Roadmap- blender.canvas",
+                "viewState": {
+                  "x": -2092.2804608600713,
+                  "y": 1108.9684512088584,
+                  "zoom": -3.333333333333333
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap- blender"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a03cb7d0bddb1d47",
+    "type": "split",
+    "children": [
+      {
+        "id": "17e09d34aedfb398",
+        "type": "tabs",
+        "dimension": 33.162612035851474,
+        "children": [
+          {
+            "id": "3f4cd3203606890f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "d307fb053c38a30a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      },
+      {
+        "id": "47c4cb34714c96b7",
+        "type": "tabs",
+        "dimension": 66.83738796414853,
+        "children": [
+          {
+            "id": "fbc88400b457a61d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "df3fed079a2ecade",
+    "type": "split",
+    "children": [
+      {
+        "id": "4546c9ae6554e639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557cd0290ff0e5b1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Blender Roadmap/Roadmap- blender.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Roadmap- blender"
+            }
+          },
+          {
+            "id": "b5c829b6ebe8ffaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Blender Roadmap/Roadmap- blender.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Roadmap- blender"
+            }
+          },
+          {
+            "id": "c286d196c33f7772",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b4ff58829d795d6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Blender Roadmap/Roadmap- blender.canvas"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Roadmap- blender"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "fbc88400b457a61d",
+  "lastOpenFiles": [
+    "Obsidian_estudos/LICENSE",
+    "Obsidian_estudos",
+    "Road map Godot/Animações estudos.canvas",
+    "Sem título.canvas",
+    "Imagens/Minha jornada Blender 4.3.webp",
+    "Blender Roadmap/Roadmap- blender.canvas",
+    "Road map unreal/Unreal Roadmap.canvas",
+    "Imagens/Pasted image 20241201044742.png",
+    "Road map Godot",
+    "Imagens/Pasted image 20241201045533.png",
+    "Imagens/Pasted image 20241201045034.png",
+    "Imagens",
+    "2024-12-01.md",
+    "imganes",
+    "Blender Roadmap",
+    "Sem título.md"
+  ]
+}
