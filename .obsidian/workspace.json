@@ -172,8 +172,7 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "github-sync:Sync with Remote": false
+      "workspaces:Gerenciar leiautes da área de trabalho": false
     }
   },
   "active": "fbc88400b457a61d",
