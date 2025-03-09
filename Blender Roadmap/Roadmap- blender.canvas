@@ -44,7 +44,7 @@
 		{"id":"ab50faf8c37401b0","type":"link","url":"https://www.youtube.com/watch?v=mQPFjzAgGQo","x":-8160,"y":80,"width":640,"height":360},
 		{"id":"75df1dc243c58dcb","type":"link","url":"https://www.youtube.com/watch?v=TSp9WdySqnQ","x":-5120,"y":80,"width":640,"height":360},
 		{"id":"d640a8f244176c87","type":"link","url":"https://www.youtube.com/watch?v=D90UpxA-VDw&t=349s","x":-5920,"y":80,"width":640,"height":360},
-		{"id":"58505ad015f80166","x":-4320,"y":80,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=_FGcbFZC_Kc"},
+		{"id":"58505ad015f80166","type":"link","url":"https://www.youtube.com/watch?v=_FGcbFZC_Kc","x":-4320,"y":80,"width":640,"height":360},
 		{"id":"17d31f87c05fbf34","type":"link","url":"https://www.youtube.com/watch?v=_-zAhCOUpog","x":-7400,"y":80,"width":600,"height":360},
 		{"id":"4a07ee2f5a07c620","type":"link","url":"https://www.youtube.com/watch?v=XleO7DBm1Us&t=143s","x":-6680,"y":80,"width":640,"height":360}
 	],

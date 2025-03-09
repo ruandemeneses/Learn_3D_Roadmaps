@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Blender Roadmap/Roadmap- blender.canvas",
+                "file": "Road map Godot/Animações estudos.canvas",
                 "viewState": {
-                  "x": -4150.673124367109,
-                  "y": 617.8177296928477,
-                  "zoom": -2.9999999999999996
+                  "x": 227.7152398650444,
+                  "y": 878.3298613851198,
+                  "zoom": -2.216264029997671
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Roadmap- blender"
+              "title": "Animações estudos"
             }
           }
         ]
@@ -172,18 +172,19 @@
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "fbc88400b457a61d",
+  "active": "ad2a0b92b10cacc0",
   "lastOpenFiles": [
+    "Blender Roadmap/Roadmap- blender.canvas",
     "LICENSE",
     "Obsidian_estudos/LICENSE",
     "Obsidian_estudos",
     "Road map Godot/Animações estudos.canvas",
     "Sem título.canvas",
     "Imagens/Minha jornada Blender 4.3.webp",
-    "Blender Roadmap/Roadmap- blender.canvas",
     "Road map unreal/Unreal Roadmap.canvas",
     "Imagens/Pasted image 20241201044742.png",
     "Road map Godot",
