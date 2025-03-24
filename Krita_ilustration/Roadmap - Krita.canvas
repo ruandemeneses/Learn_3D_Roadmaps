@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ebbacc4bba920711","x":240,"y":-280,"width":250,"height":60,"color":"3","type":"text","text":"SHADING"},
+		{"id":"551d636b936cd8b7","type":"text","text":"SKETCHING","x":-880,"y":-280,"width":250,"height":60,"color":"5"},
+		{"id":"3e33a7c7925eec50","type":"text","text":"LINEART","x":-320,"y":-280,"width":250,"height":60,"color":"4"},
+		{"id":"642967d618efbea7","x":640,"y":-280,"width":250,"height":60,"color":"6","type":"text","text":"RENDERING"}
+	],
+	"edges":[]
+}
