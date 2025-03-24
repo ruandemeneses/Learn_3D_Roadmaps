@@ -1,9 +1,18 @@
 {
 	"nodes":[
-		{"id":"ebbacc4bba920711","x":240,"y":-280,"width":250,"height":60,"color":"3","type":"text","text":"SHADING"},
-		{"id":"551d636b936cd8b7","type":"text","text":"SKETCHING","x":-880,"y":-280,"width":250,"height":60,"color":"5"},
-		{"id":"3e33a7c7925eec50","type":"text","text":"LINEART","x":-320,"y":-280,"width":250,"height":60,"color":"4"},
-		{"id":"642967d618efbea7","x":640,"y":-280,"width":250,"height":60,"color":"6","type":"text","text":"RENDERING"}
+		{"id":"ebbacc4bba920711","type":"text","text":"SHADING","x":240,"y":-280,"width":250,"height":60,"color":"3"},
+		{"id":"642967d618efbea7","type":"text","text":"RENDERING","x":960,"y":-280,"width":250,"height":60,"color":"6"},
+		{"id":"3e33a7c7925eec50","type":"text","text":"LINEART","x":-480,"y":-280,"width":250,"height":60,"color":"4"},
+		{"id":"551d636b936cd8b7","type":"text","text":"SKETCHING","x":-1200,"y":-280,"width":250,"height":60,"color":"5"},
+		{"id":"7be6dd2e4689dfac","type":"link","url":"https://www.youtube.com/watch?v=3OQeRLwipi4","x":83,"y":400,"width":565,"height":300},
+		{"id":"32c3c142a43554b1","x":83,"y":-60,"width":565,"height":320,"type":"link","url":"https://www.youtube.com/watch?v=f0r5-f87YK8"},
+		{"id":"2d8eec453d5b1359","type":"link","url":"https://www.youtube.com/watch?v=cfLKHbmhCIY","x":83,"y":840,"width":565,"height":320},
+		{"id":"8ef2a3f15f16e91e","x":83,"y":1280,"width":565,"height":340,"type":"link","url":"https://www.youtube.com/watch?v=OvSgbLVTmZI"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"dd7754d7ce050f17","fromNode":"7be6dd2e4689dfac","fromSide":"bottom","toNode":"2d8eec453d5b1359","toSide":"top"},
+		{"id":"110ee97ae09984c6","fromNode":"ebbacc4bba920711","fromSide":"bottom","toNode":"32c3c142a43554b1","toSide":"top"},
+		{"id":"3b474806eff69b4e","fromNode":"32c3c142a43554b1","fromSide":"bottom","toNode":"7be6dd2e4689dfac","toSide":"top"},
+		{"id":"5ac70232c7d1134a","fromNode":"2d8eec453d5b1359","fromSide":"bottom","toNode":"8ef2a3f15f16e91e","toSide":"top"}
+	]
 }
