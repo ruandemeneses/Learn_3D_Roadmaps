@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "962aa744cfe4378d",
+        "id": "4c6d7a936e1311ac",
         "type": "tabs",
         "children": [
           {
-            "id": "ad2a0b92b10cacc0",
+            "id": "0877ae8681cce7b5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Krita_ilustration/Roadmap - Krita.canvas",
-                "viewState": {
-                  "x": 11.0452080869062,
-                  "y": 667.6031952234882,
-                  "zoom": -1.6
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap - Krita"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -175,10 +168,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ad2a0b92b10cacc0",
+  "active": "0877ae8681cce7b5",
   "lastOpenFiles": [
-    "Blender Roadmap/Roadmap- blender.canvas",
     "Krita_ilustration/Roadmap - Krita.canvas",
+    "Blender Roadmap/Roadmap- blender.canvas",
     "Krita_ilustration",
     "Road map Godot/Animações estudos.canvas",
     "LICENSE",
