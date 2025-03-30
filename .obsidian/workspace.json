@@ -11,10 +11,17 @@
             "id": "0877ae8681cce7b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Blender Roadmap/Roadmap- blender.canvas",
+                "viewState": {
+                  "x": -4794.049716409209,
+                  "y": 645.0538841892082,
+                  "zoom": -3.5780761151359166
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Roadmap- blender"
             }
           }
         ]

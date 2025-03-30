@@ -27,8 +27,6 @@
 		{"id":"9870ca09de922dbb","type":"file","file":"Imagens/Minha jornada Blender 4.3.webp","x":-1360,"y":-1040,"width":710,"height":355},
 		{"id":"2eed89795bec4e81","type":"text","text":"Animation\n","x":-1922,"y":1720,"width":250,"height":60,"color":"5"},
 		{"id":"ddfbf59912a47f67","type":"link","url":"https://www.youtube.com/watch?v=c1iv0dbtMJ4","x":-2760,"y":1560,"width":640,"height":380},
-		{"id":"a7b06b390624df00","type":"link","url":"https://www.youtube.com/watch?v=0Tmtu-JNVk8","x":-4440,"y":-1046,"width":640,"height":360},
-		{"id":"b32908ad8ebd81c9","type":"link","url":"https://www.youtube.com/watch?v=zXm-mYeApQQ","x":-3680,"y":-1046,"width":640,"height":360},
 		{"id":"7497abfae66e1275","type":"link","url":"https://www.youtube.com/watch?v=8_apXIn0g5w&t=109s","x":-2760,"y":80,"width":640,"height":360},
 		{"id":"11f9b1ab03fb0ccb","type":"link","url":"https://www.youtube.com/watch?v=5eIxHQnLqr0&list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5&index=3","x":-2007,"y":3137,"width":647,"height":420},
 		{"id":"7ae7a8a1f3c2e9de","type":"link","url":"https://www.youtube.com/watch?v=DflUhkibKjs","x":-3560,"y":-357,"width":640,"height":360},
@@ -46,7 +44,11 @@
 		{"id":"d640a8f244176c87","type":"link","url":"https://www.youtube.com/watch?v=D90UpxA-VDw&t=349s","x":-5920,"y":80,"width":640,"height":360},
 		{"id":"58505ad015f80166","type":"link","url":"https://www.youtube.com/watch?v=_FGcbFZC_Kc","x":-4320,"y":80,"width":640,"height":360},
 		{"id":"17d31f87c05fbf34","type":"link","url":"https://www.youtube.com/watch?v=_-zAhCOUpog","x":-7400,"y":80,"width":600,"height":360},
-		{"id":"4a07ee2f5a07c620","type":"link","url":"https://www.youtube.com/watch?v=XleO7DBm1Us&t=143s","x":-6680,"y":80,"width":640,"height":360}
+		{"id":"4a07ee2f5a07c620","type":"link","url":"https://www.youtube.com/watch?v=XleO7DBm1Us&t=143s","x":-6680,"y":80,"width":640,"height":360},
+		{"id":"a7b06b390624df00","type":"link","url":"https://www.youtube.com/watch?v=0Tmtu-JNVk8","x":-5080,"y":-1072,"width":640,"height":360},
+		{"id":"b32908ad8ebd81c9","type":"link","url":"https://www.youtube.com/watch?v=zXm-mYeApQQ","x":-4320,"y":-1072,"width":640,"height":360},
+		{"id":"cff746e6d561b891","x":-3560,"y":-1072,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=Lxem4yMs5Dg"},
+		{"id":"46071a9c37714222","x":-5120,"y":-357,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=1myOZaxtHes"}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
@@ -69,7 +71,6 @@
 		{"id":"13852bc09245fb26","fromNode":"d1d72eab69d2f85d","fromSide":"bottom","toNode":"107bb8eda0f22772","toSide":"top"},
 		{"id":"973b8c774ce884c8","fromNode":"5aa8dc24aad245df","fromSide":"top","toNode":"d41c6b9ed628ed7e","toSide":"bottom"},
 		{"id":"9dd6fd93ff67991a","fromNode":"27a2254d21d52d3f","fromSide":"left","toNode":"59b46cc60a53702e","toSide":"right"},
-		{"id":"04cc601275b1e74b","fromNode":"59b46cc60a53702e","fromSide":"left","toNode":"b32908ad8ebd81c9","toSide":"right"},
 		{"id":"db3a88d81e694fa0","fromNode":"d592d9de0e3ed656","fromSide":"left","toNode":"7ae7a8a1f3c2e9de","toSide":"right"},
 		{"id":"763254a45b8a8bac","fromNode":"98a1db01f1d7e950","fromSide":"left","toNode":"a1d86000ff3dc6aa","toSide":"right"},
 		{"id":"1d563679f561b77b","fromNode":"5aa8dc24aad245df","fromSide":"bottom","toNode":"11c585a2e0845f55","toSide":"top"},
@@ -91,6 +92,9 @@
 		{"id":"f46a1213ac8e9a64","fromNode":"d640a8f244176c87","fromSide":"left","toNode":"4a07ee2f5a07c620","toSide":"right"},
 		{"id":"6baab43c07509cbc","fromNode":"4a07ee2f5a07c620","fromSide":"left","toNode":"17d31f87c05fbf34","toSide":"right"},
 		{"id":"8a628b25c6a2ef94","fromNode":"ab50faf8c37401b0","fromSide":"left","toNode":"98a1db01f1d7e950","toSide":"right"},
-		{"id":"67066589d317232d","fromNode":"17d31f87c05fbf34","fromSide":"left","toNode":"ab50faf8c37401b0","toSide":"right"}
+		{"id":"67066589d317232d","fromNode":"17d31f87c05fbf34","fromSide":"left","toNode":"ab50faf8c37401b0","toSide":"right"},
+		{"id":"5db94bcf48fbaa3e","fromNode":"59b46cc60a53702e","fromSide":"left","toNode":"cff746e6d561b891","toSide":"right"},
+		{"id":"5cc0c2f535e3e048","fromNode":"cff746e6d561b891","fromSide":"left","toNode":"b32908ad8ebd81c9","toSide":"right"},
+		{"id":"58dddc1ddc53aa3a","fromNode":"7ae7a8a1f3c2e9de","fromSide":"left","toNode":"46071a9c37714222","toSide":"right"}
 	]
 }
