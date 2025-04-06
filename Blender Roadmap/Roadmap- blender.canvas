@@ -47,8 +47,8 @@
 		{"id":"4a07ee2f5a07c620","type":"link","url":"https://www.youtube.com/watch?v=XleO7DBm1Us&t=143s","x":-6680,"y":80,"width":640,"height":360},
 		{"id":"a7b06b390624df00","type":"link","url":"https://www.youtube.com/watch?v=0Tmtu-JNVk8","x":-5080,"y":-1072,"width":640,"height":360},
 		{"id":"b32908ad8ebd81c9","type":"link","url":"https://www.youtube.com/watch?v=zXm-mYeApQQ","x":-4320,"y":-1072,"width":640,"height":360},
-		{"id":"cff746e6d561b891","x":-3560,"y":-1072,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=Lxem4yMs5Dg"},
-		{"id":"46071a9c37714222","x":-5120,"y":-357,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=1myOZaxtHes"}
+		{"id":"cff746e6d561b891","type":"link","url":"https://www.youtube.com/watch?v=Lxem4yMs5Dg","x":-3560,"y":-1072,"width":640,"height":360},
+		{"id":"46071a9c37714222","type":"link","url":"https://www.youtube.com/watch?v=1myOZaxtHes","x":-5120,"y":-357,"width":640,"height":360}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
