@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5ace3aacd46a1b99","x":-360,"y":-60,"width":705,"height":210,"color":"5","type":"text","text":"- *Frontend*:\n- Fundamentos - HTML, CSS, Javascript (focado em manipulação do DOM) e um Framework CSS (Bootstrap, TailwindCSS, etc)\n- Avançado - Um framework Javascript (Angular, VueJS ou ReactJS, escolha um, recomendo ReactJS), Typescript \n"},
+		{"id":"802add917a803740","x":-360,"y":520,"width":705,"height":160,"color":"1","type":"text","text":"- *Backend*\n- Fundamentos - Python e Django com Class Based Views\n- Avançado - Django para criação de APIs (Django Rest Framework)"}
+	],
+	"edges":[
+		{"id":"90829c1c843e32e5","fromNode":"5ace3aacd46a1b99","fromSide":"bottom","toNode":"802add917a803740","toSide":"top"}
+	]
+}

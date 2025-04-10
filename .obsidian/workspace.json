@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Blender Roadmap/Roadmap- blender.canvas",
+                "file": "Desenvolvedor Fullstack/Roadmap - Front-Back.canvas",
                 "viewState": {
-                  "x": 2691.8002838588354,
-                  "y": -549.2706450766029,
-                  "zoom": -3.1999999999999997
+                  "x": -84.7386308446464,
+                  "y": 336.4140800003097,
+                  "zoom": -0.40000000000000013
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Roadmap- blender"
+              "title": "Roadmap - Front-Back"
             }
           }
         ]
@@ -177,15 +177,17 @@
   },
   "active": "0877ae8681cce7b5",
   "lastOpenFiles": [
+    "Blender Roadmap/Roadmap- blender.canvas",
+    "Desenvolvedor Fullstack/Roadmap - Front-Back.canvas",
+    "Untitled",
     "Krita_ilustration/Roadmap - Krita.canvas",
     "Untitled.canvas",
     "PROKO canal.md",
-    "Blender Roadmap/Roadmap- blender.canvas",
     "Krita_ilustration",
     "Road map Godot/Animações estudos.canvas",
     "LICENSE",
-    "Obsidian_estudos/LICENSE",
-    "Obsidian_estudos",
+    "Desenvolvedor Fullstack/LICENSE",
+    "Desenvolvedor Fullstack",
     "Sem título.canvas",
     "Imagens/Minha jornada Blender 4.3.webp",
     "Road map unreal/Unreal Roadmap.canvas",
