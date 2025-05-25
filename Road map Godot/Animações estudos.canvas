@@ -2,15 +2,17 @@
 	"nodes":[
 		{"id":"d565b92205018a50","type":"text","text":"==ANIMAÇÂO==","x":-143,"y":-760,"width":250,"height":60,"color":"3"},
 		{"id":"1ca52912c5c12839","type":"link","url":"https://www.youtube.com/watch?v=uDqjIdI4bF4","x":-338,"y":-511,"width":640,"height":360},
-		{"id":"1f5480263bfce4c9","type":"text","text":"       OUTROS\n","x":2087,"y":-720,"width":250,"height":50,"color":"4"},
-		{"id":"65613ec52a684af5","type":"link","url":"https://www.youtube.com/watch?v=HsOKwUwL1bE","x":1892,"y":-520,"width":640,"height":360},
 		{"id":"bdbe1625cc6b28eb","type":"link","url":"https://www.youtube.com/watch?v=WrMORzl3g1U","x":400,"y":720,"width":640,"height":360},
 		{"id":"f843c48bf1e15105","type":"link","url":"https://www.youtube.com/watch?v=n872lbC-_BU&t=558s","x":1120,"y":720,"width":640,"height":360},
 		{"id":"1d0c09ce904d1cdc","type":"link","url":"https://www.youtube.com/watch?v=JWfYvVYhZfg","x":-1800,"y":720,"width":640,"height":360},
 		{"id":"e223d29030f19093","type":"link","url":"https://www.youtube.com/watch?v=dbBG_LM4dwI","x":-1080,"y":720,"width":640,"height":360},
 		{"id":"b1825ee405d53127","type":"link","url":"https://www.youtube.com/watch?v=nlBV7ST97HM","x":-338,"y":720,"width":640,"height":360},
 		{"id":"4548faf0e9a68d13","type":"link","url":"https://www.youtube.com/watch?v=8hTBUNbyDEo","x":-338,"y":1240,"width":640,"height":360},
-		{"id":"9f3def0b1757d155","x":-338,"y":0,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=uZQ4GCdiCuM&t=91s"}
+		{"id":"9f3def0b1757d155","type":"link","url":"https://www.youtube.com/watch?v=uZQ4GCdiCuM&t=91s","x":-338,"y":0,"width":640,"height":360},
+		{"id":"65613ec52a684af5","type":"link","url":"https://www.youtube.com/watch?v=HsOKwUwL1bE","x":3720,"y":-500,"width":640,"height":360},
+		{"id":"1f5480263bfce4c9","type":"text","text":"       OUTROS\n","x":3915,"y":-700,"width":250,"height":50,"color":"4"},
+		{"id":"cf979551fe89b73c","x":1880,"y":-511,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=RAjgkqJ-8xQ"},
+		{"id":"ac4769bd84d5cfe0","x":2085,"y":-760,"width":231,"height":60,"color":"#4249ff","type":"text","text":"PROGRAMMING"}
 	],
 	"edges":[
 		{"id":"364ffad44412f48f","fromNode":"d565b92205018a50","fromSide":"bottom","toNode":"1ca52912c5c12839","toSide":"top"},
@@ -25,6 +27,7 @@
 		{"id":"8694748e57f43641","fromNode":"9f3def0b1757d155","fromSide":"bottom","toNode":"b1825ee405d53127","toSide":"top"},
 		{"id":"39efaa2ae0404c4d","fromNode":"9f3def0b1757d155","fromSide":"bottom","toNode":"bdbe1625cc6b28eb","toSide":"top"},
 		{"id":"07a848dff29ac1aa","fromNode":"9f3def0b1757d155","fromSide":"bottom","toNode":"f843c48bf1e15105","toSide":"top"},
-		{"id":"7a891db060af3f35","fromNode":"9f3def0b1757d155","fromSide":"top","toNode":"1ca52912c5c12839","toSide":"bottom"}
+		{"id":"7a891db060af3f35","fromNode":"9f3def0b1757d155","fromSide":"top","toNode":"1ca52912c5c12839","toSide":"bottom"},
+		{"id":"bc3ac01969a24a91","fromNode":"ac4769bd84d5cfe0","fromSide":"bottom","toNode":"cf979551fe89b73c","toSide":"top"}
 	]
 }
