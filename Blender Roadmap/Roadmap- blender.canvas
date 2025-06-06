@@ -64,7 +64,10 @@
 		{"id":"2af7ffe94b49d9c2","type":"text","text":"https://www.youtube.com/shorts/DqVcq65LBJk?si=b2bRThHhBlSNTG8q","x":-6600,"y":-1860,"width":250,"height":180},
 		{"id":"1b6d29e90abd7c67","type":"text","text":"#### Modelagem","x":-6160,"y":-1800,"width":250,"height":60,"color":"5"},
 		{"id":"3be7723fa910d4cb","type":"text","text":"https://www.youtube.com/shorts/zCish0j5Ph4","x":-6600,"y":-1513,"width":250,"height":153},
-		{"id":"fefbaab5c0997067","type":"text","text":"#### UV unwrapp\n","x":-6160,"y":-1474,"width":250,"height":76,"color":"5"}
+		{"id":"fefbaab5c0997067","type":"text","text":"#### UV unwrapp\n","x":-6160,"y":-1474,"width":250,"height":76,"color":"5"},
+		{"id":"439a22dd4a7fa1e1","x":361,"y":-127,"width":1239,"height":895,"type":"link","url":"https://ucupumar.github.io/ucupaint-wiki/"},
+		{"id":"09a76fbfd918416c","x":845,"y":-360,"width":272,"height":50,"color":"#00bfff","type":"text","text":"# UCUPAINT !"},
+		{"id":"793e653eab8d18fb","x":1340,"y":-412,"width":332,"height":155,"color":"#00bfff","type":"text","text":"One of the most advanced and OPEN SOURCE Layer based Texture And material Addons (FREE !!)"}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
@@ -125,6 +128,8 @@
 		{"id":"51aae34af06d35a4","fromNode":"c20ff00281f6ca7e","fromSide":"bottom","toNode":"2af7ffe94b49d9c2","toSide":"top"},
 		{"id":"edee39f6f3d50f51","fromNode":"2af7ffe94b49d9c2","fromSide":"right","toNode":"1b6d29e90abd7c67","toSide":"left"},
 		{"id":"5da640e6e6425fea","fromNode":"3be7723fa910d4cb","fromSide":"right","toNode":"fefbaab5c0997067","toSide":"left"},
-		{"id":"4bfe70c2deac3e31","fromNode":"c20ff00281f6ca7e","fromSide":"bottom","toNode":"3be7723fa910d4cb","toSide":"top"}
+		{"id":"4bfe70c2deac3e31","fromNode":"c20ff00281f6ca7e","fromSide":"bottom","toNode":"3be7723fa910d4cb","toSide":"top"},
+		{"id":"bf1ef3e2c7f8a0b6","fromNode":"09a76fbfd918416c","fromSide":"bottom","toNode":"439a22dd4a7fa1e1","toSide":"top"},
+		{"id":"820a2833b05163cd","fromNode":"09a76fbfd918416c","fromSide":"right","toNode":"793e653eab8d18fb","toSide":"left"}
 	]
 }
