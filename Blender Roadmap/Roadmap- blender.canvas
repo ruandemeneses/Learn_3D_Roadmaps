@@ -27,7 +27,6 @@
 		{"id":"2eed89795bec4e81","type":"text","text":"Animation\n","x":-1922,"y":1720,"width":250,"height":60,"color":"5"},
 		{"id":"ddfbf59912a47f67","type":"link","url":"https://www.youtube.com/watch?v=c1iv0dbtMJ4","x":-2760,"y":1560,"width":640,"height":380},
 		{"id":"7497abfae66e1275","type":"link","url":"https://www.youtube.com/watch?v=8_apXIn0g5w&t=109s","x":-2760,"y":80,"width":640,"height":360},
-		{"id":"7ae7a8a1f3c2e9de","type":"link","url":"https://www.youtube.com/watch?v=DflUhkibKjs","x":-3560,"y":-357,"width":640,"height":360},
 		{"id":"e274940deef9f7bd","type":"link","url":"https://www.youtube.com/watch?v=Zx2LtlZqG3g","x":-4320,"y":540,"width":640,"height":360,"color":"3"},
 		{"id":"8ccacb4b8920e29a","type":"link","url":"https://www.youtube.com/watch?v=BiPoPMnU2VI","x":-3560,"y":540,"width":640,"height":360},
 		{"id":"46071a9c37714222","type":"link","url":"https://www.youtube.com/watch?v=1myOZaxtHes","x":-5120,"y":-357,"width":640,"height":360},
@@ -59,7 +58,13 @@
 		{"id":"59b46cc60a53702e","type":"text","text":"ESCULPTING","x":-1922,"y":-417,"width":250,"height":60,"color":"#1d00f5"},
 		{"id":"a12cea82790cc379","type":"link","url":"https://www.youtube.com/watch?v=_w1Ya70diWU","x":-12640,"y":73,"width":640,"height":360},
 		{"id":"ac8f5a456b75a924","type":"link","url":"https://www.youtube.com/watch?v=MgZsVBVZ3Nc","x":-11885,"y":73,"width":640,"height":360},
-		{"id":"a1d86000ff3dc6aa","type":"link","url":"https://www.youtube.com/watch?v=yffWd4kI51Q","x":-11105,"y":73,"width":640,"height":360}
+		{"id":"a1d86000ff3dc6aa","type":"link","url":"https://www.youtube.com/watch?v=yffWd4kI51Q","x":-11105,"y":73,"width":640,"height":360},
+		{"id":"7ae7a8a1f3c2e9de","type":"link","url":"https://www.youtube.com/watch?v=DflUhkibKjs","x":-3560,"y":-357,"width":640,"height":360},
+		{"id":"c20ff00281f6ca7e","type":"text","text":"# YOUTUBE SHORTS\n","x":-6600,"y":-2040,"width":440,"height":80,"color":"1"},
+		{"id":"2af7ffe94b49d9c2","type":"text","text":"https://www.youtube.com/shorts/DqVcq65LBJk?si=b2bRThHhBlSNTG8q","x":-6600,"y":-1860,"width":250,"height":180},
+		{"id":"1b6d29e90abd7c67","type":"text","text":"#### Modelagem","x":-6160,"y":-1800,"width":250,"height":60,"color":"5"},
+		{"id":"3be7723fa910d4cb","type":"text","text":"https://www.youtube.com/shorts/zCish0j5Ph4","x":-6600,"y":-1513,"width":250,"height":153},
+		{"id":"fefbaab5c0997067","type":"text","text":"#### UV unwrapp\n","x":-6160,"y":-1474,"width":250,"height":76,"color":"5"}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
@@ -116,6 +121,10 @@
 		{"id":"db5240badba245cc","fromNode":"eb555dd030d0932a","fromSide":"left","toNode":"ab50faf8c37401b0","toSide":"right"},
 		{"id":"d96df1de2d3b8e30","fromNode":"039636fdae5f8590","fromSide":"bottom","toNode":"4799849f9607e56c","toSide":"top"},
 		{"id":"85afdf2c90199665","fromNode":"ddfbf59912a47f67","fromSide":"left","toNode":"e4cb7f1abc4921fb","toSide":"right"},
-		{"id":"736bf94edd53270b","fromNode":"e4cb7f1abc4921fb","fromSide":"left","toNode":"e83f47f5390154df","toSide":"right"}
+		{"id":"736bf94edd53270b","fromNode":"e4cb7f1abc4921fb","fromSide":"left","toNode":"e83f47f5390154df","toSide":"right"},
+		{"id":"51aae34af06d35a4","fromNode":"c20ff00281f6ca7e","fromSide":"bottom","toNode":"2af7ffe94b49d9c2","toSide":"top"},
+		{"id":"edee39f6f3d50f51","fromNode":"2af7ffe94b49d9c2","fromSide":"right","toNode":"1b6d29e90abd7c67","toSide":"left"},
+		{"id":"5da640e6e6425fea","fromNode":"3be7723fa910d4cb","fromSide":"right","toNode":"fefbaab5c0997067","toSide":"left"},
+		{"id":"4bfe70c2deac3e31","fromNode":"c20ff00281f6ca7e","fromSide":"bottom","toNode":"3be7723fa910d4cb","toSide":"top"}
 	]
 }
