@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6d7a936e1311ac",
+        "id": "694301e9ee5e8e12",
         "type": "tabs",
         "children": [
           {
-            "id": "0877ae8681cce7b5",
+            "id": "d1ab730535010d94",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Blender Roadmap/Roadmap- blender.canvas",
-                "viewState": {
-                  "x": 1091.3984111401746,
-                  "y": -22.29100781737523,
-                  "zoom": -1.2000000000000006
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Roadmap- blender"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -175,8 +172,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0877ae8681cce7b5",
+  "active": "d1ab730535010d94",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "Blender Roadmap/Roadmap- blender.canvas",
     "Desenvolvedor Fullstack/Roadmap - Front-Back.canvas",
     "Road map Godot/Animações estudos.canvas",
     "sergio-diaz-demongirl.jpg",
@@ -184,12 +184,10 @@
     "jonathan-benainous-gk-sphere-render-wide-001.jpg",
     "dragão escultura.jpg",
     "ahmx-oloumi-cbp-sq-01.jpg",
-    "Blender Roadmap/Roadmap- blender.canvas",
     "one-pixel-brush-blender-guru-post-1.jpg",
     "DR strange escultura.jpg",
     "Krita_ilustration/Roadmap - Krita.canvas",
     "Untitled",
-    "Untitled.canvas",
     "PROKO canal.md",
     "Krita_ilustration",
     "LICENSE",
