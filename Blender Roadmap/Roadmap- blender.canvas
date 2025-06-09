@@ -68,8 +68,8 @@
 		{"id":"439a22dd4a7fa1e1","type":"link","url":"https://ucupumar.github.io/ucupaint-wiki/","x":361,"y":-127,"width":1239,"height":895},
 		{"id":"09a76fbfd918416c","type":"text","text":"# UCUPAINT !","x":845,"y":-360,"width":272,"height":50,"color":"#00bfff"},
 		{"id":"793e653eab8d18fb","type":"text","text":"One of the most advanced and OPEN SOURCE Layer based Texture And material Addons (FREE !!)","x":1340,"y":-412,"width":332,"height":155,"color":"#00bfff"},
-		{"id":"819313f358369085","x":3320,"y":120,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=52sTppv7Y-E"},
-		{"id":"ce78d9bde5802ef0","x":3320,"y":640,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=F7_btP0Vhzo"}
+		{"id":"819313f358369085","type":"link","url":"https://www.youtube.com/watch?v=52sTppv7Y-E","x":3320,"y":120,"width":640,"height":360},
+		{"id":"ce78d9bde5802ef0","type":"link","url":"https://www.youtube.com/watch?v=F7_btP0Vhzo","x":3320,"y":640,"width":640,"height":360}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
