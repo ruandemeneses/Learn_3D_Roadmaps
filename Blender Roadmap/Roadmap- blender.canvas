@@ -74,7 +74,7 @@
 		{"id":"3873b5d054eb5b0e","type":"link","url":"https://www.youtube.com/watch?v=G5soIHt7ofU","x":-13440,"y":80,"width":640,"height":360},
 		{"id":"c6071af60895e0e2","type":"link","url":"https://www.youtube.com/watch?v=Teoom9gYPEE","x":-14280,"y":80,"width":640,"height":360},
 		{"id":"e12c5c395827d99f","type":"link","url":"https://www.youtube.com/watch?v=1HPK2zeR9tA","x":-15120,"y":80,"width":640,"height":360},
-		{"id":"28591ee36d90590f","x":-5520,"y":-1680,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=xc9eTV2aQl4"},
+		{"id":"28591ee36d90590f","type":"link","url":"https://www.youtube.com/watch?v=xc9eTV2aQl4","x":-5520,"y":-1680,"width":640,"height":360},
 		{"id":"0a6ffb501eb15883","type":"link","url":"https://www.youtube.com/watch?v=Y0B7x8tcMxI","x":-5520,"y":-2100,"width":640,"height":360,"color":"#0909bc"}
 	],
 	"edges":[
