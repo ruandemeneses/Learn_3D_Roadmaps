@@ -15,7 +15,6 @@
 		{"id":"c105591e56fab813","type":"text","text":"fazendo\n","x":-1120,"y":-680,"width":230,"height":60,"color":"3"},
 		{"id":"0383801e1acf4c86","type":"text","text":"feito\n","x":-860,"y":-680,"width":210,"height":60,"color":"5"},
 		{"id":"c8d448b2a866eab3","type":"text","text":"A fazer\n","x":-1360,"y":-675,"width":200,"height":55},
-		{"id":"7ec500cd37125f65","type":"file","file":"Imagens/Pasted image 20241201045533.png","x":-320,"y":-1840,"width":2116,"height":1190},
 		{"id":"883b94d9e207ac86","type":"text","text":"Porque estou aprendendo blender ?","x":-320,"y":-650,"width":320,"height":90,"color":"3"},
 		{"id":"9870ca09de922dbb","type":"file","file":"Imagens/Minha jornada Blender 4.3.webp","x":-1360,"y":-1040,"width":710,"height":355},
 		{"id":"46071a9c37714222","type":"link","url":"https://www.youtube.com/watch?v=1myOZaxtHes","x":-5120,"y":-357,"width":640,"height":360},
@@ -36,7 +35,6 @@
 		{"id":"0a6ffb501eb15883","type":"link","url":"https://www.youtube.com/watch?v=Y0B7x8tcMxI","x":-5520,"y":-2100,"width":640,"height":360,"color":"#0909bc"},
 		{"id":"199f5bc8dccf3e31","type":"link","url":"https://www.youtube.com/watch?v=bUNsEzM0gKc","x":-5060,"y":2736,"width":640,"height":360},
 		{"id":"e83f47f5390154df","type":"link","url":"https://www.youtube.com/watch?v=KDiw6dm7-F8","x":-4300,"y":2726,"width":640,"height":380},
-		{"id":"e4cb7f1abc4921fb","type":"link","url":"https://www.youtube.com/watch?v=UtLku74CvXQ&list=PLcaQc6eQjXCxFhrsFWWemTkxAWwAmbxzi","x":-3520,"y":2726,"width":660,"height":380},
 		{"id":"d1d72eab69d2f85d","type":"link","url":"https://www.youtube.com/watch?v=3RSwjZLClRc","x":-2740,"y":1706,"width":640,"height":360},
 		{"id":"107bb8eda0f22772","type":"link","url":"https://www.youtube.com/watch?v=4fICQmBEt4Y","x":-2740,"y":2216,"width":640,"height":360},
 		{"id":"ddfbf59912a47f67","type":"link","url":"https://www.youtube.com/watch?v=c1iv0dbtMJ4","x":-2740,"y":2726,"width":640,"height":380},
@@ -72,7 +70,6 @@
 		{"id":"dd3c3dbb76746409","type":"text","text":"# FINE ADDONS ! #","x":1080,"y":1240,"width":360,"height":80},
 		{"id":"2b52a568acdde8a7","type":"text","text":"TrueDepth","x":1143,"y":1431,"width":237,"height":60},
 		{"id":"4bcbbe8bf3aa30d8","type":"link","url":"https://www.youtube.com/watch?v=Hi9WUJNMubs","x":1520,"y":1281,"width":640,"height":360},
-		{"id":"749433f6a5d468d4","type":"text","text":"https://superhivemarket.com/products/truedepth?ref=835","x":2349,"y":1422,"width":411,"height":69},
 		{"id":"793e653eab8d18fb","type":"text","text":"One of the most advanced and OPEN SOURCE Layer based Texture And material Addons (FREE !!)","x":1380,"y":-447,"width":332,"height":155,"color":"#00bfff"},
 		{"id":"439a22dd4a7fa1e1","type":"link","url":"https://ucupumar.github.io/ucupaint-wiki/","x":401,"y":-162,"width":1239,"height":895},
 		{"id":"09a76fbfd918416c","type":"text","text":"# UCUPAINT !","x":885,"y":-395,"width":272,"height":50,"color":"#00bfff"},
@@ -87,7 +84,13 @@
 		{"id":"0ae90c963221482f","type":"text","text":"# GEOMETRY  NODES ","x":4527,"y":-566,"width":400,"height":75,"color":"4"},
 		{"id":"a3452f1ce34d79ed","type":"text","text":"# PROCEDURAL MATERIALS ! #","x":5460,"y":-566,"width":560,"height":75,"color":"4"},
 		{"id":"703849675ded1ef7","type":"link","url":"https://www.youtube.com/watch?v=5DM2K0svM-I","x":5420,"y":-320,"width":640,"height":360},
-		{"id":"96c0ca4eab4bba8a","type":"link","url":"https://www.youtube.com/watch?v=JE2Zmy088zc","x":-4290,"y":1137,"width":640,"height":360}
+		{"id":"96c0ca4eab4bba8a","type":"link","url":"https://www.youtube.com/watch?v=JE2Zmy088zc","x":-4290,"y":1137,"width":640,"height":360},
+		{"id":"749433f6a5d468d4","type":"text","text":"https://superhivemarket.com/products/truedepth?ref=835","x":1635,"y":1680,"width":411,"height":69},
+		{"id":"7ec500cd37125f65","type":"file","file":"Imagens/Pasted image 20241201045533.png","x":-320,"y":-2095,"width":2116,"height":1190},
+		{"id":"fbe1f1e577fe4677","type":"file","file":"uberpaint_0_7_BETA.zip","x":2300,"y":1261,"width":400,"height":400},
+		{"id":"1888291fe3f9d48b","type":"text","text":"Layer system for Blender's texture paint\n\n","x":2320,"y":1689,"width":361,"height":60},
+		{"id":"f4637d270683c77d","x":-3540,"y":2216,"width":640,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=4VI5jk7pZag"},
+		{"id":"e4cb7f1abc4921fb","type":"link","url":"https://www.youtube.com/watch?v=UtLku74CvXQ&list=PLcaQc6eQjXCxFhrsFWWemTkxAWwAmbxzi","x":-3550,"y":2726,"width":660,"height":380}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
@@ -165,8 +168,11 @@
 		{"id":"7afbd54de89c9113","fromNode":"ad39add259d0e352","fromSide":"left","toNode":"46f864b4474dd745","toSide":"right"},
 		{"id":"87d2dfac65c38c05","fromNode":"dd3c3dbb76746409","fromSide":"bottom","toNode":"2b52a568acdde8a7","toSide":"top"},
 		{"id":"415be1eb32626e06","fromNode":"2b52a568acdde8a7","fromSide":"right","toNode":"4bcbbe8bf3aa30d8","toSide":"left"},
-		{"id":"e62ccb95fc02cd47","fromNode":"4bcbbe8bf3aa30d8","fromSide":"right","toNode":"749433f6a5d468d4","toSide":"left"},
 		{"id":"cc306315c3229005","fromNode":"a3452f1ce34d79ed","fromSide":"bottom","toNode":"703849675ded1ef7","toSide":"top"},
-		{"id":"663c4929accb23b4","fromNode":"46f864b4474dd745","fromSide":"left","toNode":"96c0ca4eab4bba8a","toSide":"right"}
+		{"id":"663c4929accb23b4","fromNode":"46f864b4474dd745","fromSide":"left","toNode":"96c0ca4eab4bba8a","toSide":"right"},
+		{"id":"dd30d061da931291","fromNode":"4bcbbe8bf3aa30d8","fromSide":"bottom","toNode":"749433f6a5d468d4","toSide":"top"},
+		{"id":"3968f26071ab844d","fromNode":"4bcbbe8bf3aa30d8","fromSide":"right","toNode":"fbe1f1e577fe4677","toSide":"left"},
+		{"id":"172c76b1675bf0f1","fromNode":"fbe1f1e577fe4677","fromSide":"bottom","toNode":"1888291fe3f9d48b","toSide":"top"},
+		{"id":"37ffe6f902fce28d","fromNode":"107bb8eda0f22772","fromSide":"left","toNode":"f4637d270683c77d","toSide":"right"}
 	]
 }

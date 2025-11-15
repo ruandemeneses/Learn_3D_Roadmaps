@@ -15,9 +15,9 @@
               "state": {
                 "file": "Blender Roadmap/Roadmap- blender.canvas",
                 "viewState": {
-                  "x": 527.3845648732085,
-                  "y": -167.69912819408538,
-                  "zoom": -0.6666666666666663
+                  "x": -2943.405713154429,
+                  "y": 2386.1990085911316,
+                  "zoom": -1.9999999999999993
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -178,6 +178,7 @@
   },
   "active": "d1ab730535010d94",
   "lastOpenFiles": [
+    "uberpaint_0_7_BETA.zip",
     "README.md",
     "Untitled.canvas",
     "Blender Roadmap/Roadmap- blender.canvas",
