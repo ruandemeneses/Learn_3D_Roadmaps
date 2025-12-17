@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "694301e9ee5e8e12",
+        "id": "4811c20117d623b7",
         "type": "tabs",
         "children": [
           {
-            "id": "d1ab730535010d94",
+            "id": "e05e4101ee66e884",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Blender Roadmap/Roadmap- blender.canvas",
                 "viewState": {
-                  "x": -3515.2553562199478,
-                  "y": 2632.331852425705,
-                  "zoom": -1.6
+                  "x": 361.1397286259365,
+                  "y": 2784.55487963943,
+                  "zoom": -2.0000000000000004
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -176,12 +176,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "d1ab730535010d94",
+  "active": "e05e4101ee66e884",
   "lastOpenFiles": [
+    "Blender Roadmap/Imagens/Minha jornada Blender 4.3.webp",
+    "Blender Roadmap/Roadmap- blender.canvas",
+    "Blender Roadmap/Imagens/Pasted image 20241201045034.png",
+    "Blender Roadmap/Imagens/Pasted image 20251217042041.png",
+    "Blender Roadmap/Imagens/Pasted image 20241201044742.png",
+    "Imagens/Pasted image 20241201045533.png",
     "uberpaint_0_7_BETA.zip",
     "README.md",
     "Untitled.canvas",
-    "Blender Roadmap/Roadmap- blender.canvas",
     "Desenvolvedor Fullstack/Roadmap - Front-Back.canvas",
     "Road map Godot/Animações estudos.canvas",
     "sergio-diaz-demongirl.jpg",
@@ -189,8 +194,6 @@
     "jonathan-benainous-gk-sphere-render-wide-001.jpg",
     "dragão escultura.jpg",
     "ahmx-oloumi-cbp-sq-01.jpg",
-    "one-pixel-brush-blender-guru-post-1.jpg",
-    "DR strange escultura.jpg",
     "Krita_ilustration/Roadmap - Krita.canvas",
     "Untitled",
     "PROKO canal.md",
@@ -199,12 +202,9 @@
     "Desenvolvedor Fullstack/LICENSE",
     "Desenvolvedor Fullstack",
     "Sem título.canvas",
-    "Imagens/Minha jornada Blender 4.3.webp",
     "Road map unreal/Unreal Roadmap.canvas",
-    "Imagens/Pasted image 20241201044742.png",
     "Road map Godot",
-    "Imagens/Pasted image 20241201045533.png",
-    "Imagens",
+    "Blender Roadmap/Imagens",
     "2024-12-01.md",
     "imganes",
     "Blender Roadmap",

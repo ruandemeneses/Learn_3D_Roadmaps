@@ -16,7 +16,7 @@
 		{"id":"0383801e1acf4c86","type":"text","text":"feito\n","x":-860,"y":-680,"width":210,"height":60,"color":"5"},
 		{"id":"c8d448b2a866eab3","type":"text","text":"A fazer\n","x":-1360,"y":-675,"width":200,"height":55},
 		{"id":"883b94d9e207ac86","type":"text","text":"Porque estou aprendendo blender ?","x":-320,"y":-650,"width":320,"height":90,"color":"3"},
-		{"id":"9870ca09de922dbb","type":"file","file":"Imagens/Minha jornada Blender 4.3.webp","x":-1360,"y":-1040,"width":710,"height":355},
+		{"id":"9870ca09de922dbb","type":"file","file":"Blender Roadmap/Imagens/Minha jornada Blender 4.3.webp","x":-1360,"y":-1040,"width":710,"height":355},
 		{"id":"46071a9c37714222","type":"link","url":"https://www.youtube.com/watch?v=1myOZaxtHes","x":-5120,"y":-357,"width":640,"height":360},
 		{"id":"b32908ad8ebd81c9","type":"link","url":"https://www.youtube.com/watch?v=zXm-mYeApQQ","x":-4160,"y":-1680,"width":640,"height":360,"color":"#001eff"},
 		{"id":"cff746e6d561b891","type":"link","url":"https://www.youtube.com/watch?v=Lxem4yMs5Dg","x":-3480,"y":-1680,"width":640,"height":360,"color":"#001eff"},
@@ -85,15 +85,17 @@
 		{"id":"703849675ded1ef7","type":"link","url":"https://www.youtube.com/watch?v=5DM2K0svM-I","x":5420,"y":-320,"width":640,"height":360},
 		{"id":"96c0ca4eab4bba8a","type":"link","url":"https://www.youtube.com/watch?v=JE2Zmy088zc","x":-4290,"y":1137,"width":640,"height":360},
 		{"id":"749433f6a5d468d4","type":"text","text":"https://superhivemarket.com/products/truedepth?ref=835","x":1635,"y":1680,"width":411,"height":69},
-		{"id":"7ec500cd37125f65","type":"file","file":"Imagens/Pasted image 20241201045533.png","x":-320,"y":-2095,"width":2116,"height":1190},
 		{"id":"fbe1f1e577fe4677","type":"file","file":"uberpaint_0_7_BETA.zip","x":2300,"y":1261,"width":400,"height":400},
 		{"id":"1888291fe3f9d48b","type":"text","text":"Layer system for Blender's texture paint\n\n","x":2320,"y":1689,"width":361,"height":60},
 		{"id":"f4637d270683c77d","type":"link","url":"https://www.youtube.com/watch?v=4VI5jk7pZag","x":-3540,"y":2216,"width":640,"height":360},
 		{"id":"e4cb7f1abc4921fb","type":"link","url":"https://www.youtube.com/watch?v=UtLku74CvXQ&list=PLcaQc6eQjXCxFhrsFWWemTkxAWwAmbxzi","x":-3550,"y":2726,"width":660,"height":380},
-		{"id":"11f9b1ab03fb0ccb","type":"link","url":"https://www.youtube.com/watch?v=5eIxHQnLqr0&list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5&index=3","x":-1600,"y":4160,"width":647,"height":420},
 		{"id":"3a7e55ea687e5ca3","type":"text","text":"<h1> Camera and light</h1>\n","x":-1946,"y":3640,"width":339,"height":69,"color":"5"},
 		{"id":"7ba4d61ff984b6ce","type":"link","url":"https://www.youtube.com/watch?v=QFPbocBHuT0","x":-2740,"y":3495,"width":640,"height":360},
-		{"id":"2d903e1489a9009c","x":-3550,"y":3495,"width":660,"height":360,"type":"link","url":"https://www.youtube.com/watch?v=6Yphs45g4t0"}
+		{"id":"2d903e1489a9009c","type":"link","url":"https://www.youtube.com/watch?v=6Yphs45g4t0","x":-3550,"y":3495,"width":660,"height":360},
+		{"id":"11f9b1ab03fb0ccb","type":"link","url":"https://www.youtube.com/watch?v=5eIxHQnLqr0&list=PLok698dKQ_Hj10eKx73qPJRktkB1r8SN5&index=3","x":-1747,"y":4480,"width":647,"height":420},
+		{"id":"db7b3b13130bda5b","type":"file","file":"Blender Roadmap/Imagens/Pasted image 20251217042041.png","x":-490,"y":4166,"width":863,"height":1049},
+		{"id":"4466b337f3180ecf","type":"text","text":"<H1>\nCharacter Design Workflow </H1>","x":-286,"y":3766,"width":456,"height":50,"color":"5"},
+		{"id":"7ec500cd37125f65","type":"file","file":"Blender Roadmap/Imagens/Pasted image 20241201045034.png","x":-160,"y":-2094,"width":2190,"height":1232}
 	],
 	"edges":[
 		{"id":"4b09196a4082229d","fromNode":"0383801e1acf4c86","fromSide":"bottom","toNode":"1e66b1ad59f60935","toSide":"top"},
@@ -179,6 +181,7 @@
 		{"id":"37ffe6f902fce28d","fromNode":"107bb8eda0f22772","fromSide":"left","toNode":"f4637d270683c77d","toSide":"right"},
 		{"id":"bc6bbc9529761f4d","fromNode":"3a7e55ea687e5ca3","fromSide":"left","toNode":"7ba4d61ff984b6ce","toSide":"right"},
 		{"id":"c0f4ce253a50e52c","fromNode":"c8d448b2a866eab3","fromSide":"left","toNode":"3a7e55ea687e5ca3","toSide":"right"},
-		{"id":"b8e8fb55225fc53e","fromNode":"7ba4d61ff984b6ce","fromSide":"left","toNode":"2d903e1489a9009c","toSide":"right"}
+		{"id":"b8e8fb55225fc53e","fromNode":"7ba4d61ff984b6ce","fromSide":"left","toNode":"2d903e1489a9009c","toSide":"right"},
+		{"id":"c2b7ac8403ba0184","fromNode":"4466b337f3180ecf","fromSide":"bottom","toNode":"db7b3b13130bda5b","toSide":"top"}
 	]
 }
