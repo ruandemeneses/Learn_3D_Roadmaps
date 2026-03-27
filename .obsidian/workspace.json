@@ -15,9 +15,9 @@
               "state": {
                 "file": "Blender Roadmap/Roadmap- blender.canvas",
                 "viewState": {
-                  "x": 6627.9706663205925,
-                  "y": 2291.6864902243024,
-                  "zoom": -2.4
+                  "x": -2452.7481106909836,
+                  "y": 499.35955981574,
+                  "zoom": -1.6000000000000005
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Topology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "df3fed079a2ecade",
@@ -166,14 +167,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "bases:Criar nova base": false
     }
   },
   "active": "e05e4101ee66e884",
