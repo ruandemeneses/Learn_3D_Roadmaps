@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4811c20117d623b7",
+        "id": "ff4c5f9c5235b433",
         "type": "tabs",
         "children": [
           {
-            "id": "e05e4101ee66e884",
+            "id": "2aa7a6d3bc6517de",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Blender Roadmap/Roadmap- blender.canvas",
                 "viewState": {
-                  "x": -2452.7481106909836,
-                  "y": 499.35955981574,
-                  "zoom": -1.6000000000000005
+                  "x": 3440.143483430167,
+                  "y": 1132.4065400299874,
+                  "zoom": -1.2000000000000006
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -52,7 +52,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -82,15 +82,14 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "df3fed079a2ecade",
@@ -177,10 +176,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e05e4101ee66e884",
+  "active": "2aa7a6d3bc6517de",
   "lastOpenFiles": [
-    "Blender Roadmap/Imagens/Minha jornada Blender 4.3.webp",
     "Blender Roadmap/Roadmap- blender.canvas",
+    "Blender Roadmap/Imagens/Minha jornada Blender 4.3.webp",
     "Blender Roadmap/Imagens/Pasted image 20241201045034.png",
     "Blender Roadmap/Imagens/Pasted image 20251217042041.png",
     "Blender Roadmap/Imagens/Pasted image 20241201044742.png",
